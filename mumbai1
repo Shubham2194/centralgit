@@ -1,4 +1,1 @@
-a=20
-b=22
-c=(a+b)
-print(c)
+and print(a+b) is also same
