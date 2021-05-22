@@ -1,2 +1,6 @@
 and print(a+b) is also same
 print(a+b+c) is also required
+a=44
+b=88
+
+print(a+b)
